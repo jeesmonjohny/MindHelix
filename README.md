@@ -1,4 +1,4 @@
-# MindHelix
+# Maximum Difference
 
 step1: create new java project in eclipse <br />
 step2: download MaxdefAPI.jar and import in library folder of creating project<br />

@@ -16,4 +16,4 @@ step5: call getMaximum() method for getting maximum diference value<br />
       
 where maxdef returning output value ,'inputarr' is input integer array and 'length' size of array<br />
 step6: print maxdef value<br />
-NOTE:please check the sample output screenshot attached here if we running java file inside this jar alone<br />
+NOTE:please check the sample output screenshot output1.JPG attached here if we running java file inside this jar alone<br />
